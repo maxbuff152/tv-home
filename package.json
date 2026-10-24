@@ -1,0 +1,10 @@
+{
+  "name": "tv-home",
+  "appName": "Home",
+  "version": "1.0.0",
+  "description": "Apple TV style home screen for our living room TV",
+  "packageType": "mods",
+  "websiteURL": "http://192.168.4.27:8099/tv-home/",
+  "main": "inject.js",
+  "keys": []
+}
